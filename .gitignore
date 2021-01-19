@@ -33,3 +33,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+Packages/packages-lock.json
+Logs/Packages-Update.log
+Packages/manifest.json
