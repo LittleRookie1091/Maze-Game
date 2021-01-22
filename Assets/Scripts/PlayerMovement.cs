@@ -24,23 +24,23 @@ public class PlayerMovement : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collider){
         //add code here
         
-        Debug.Log("TriggerEnter");
+        //Debug.Log("TriggerEnter");
     }  
     void OnTriggerStay2D(Collider2D collider){
         //Debug.Log("TriggerStay");
     }    
     void OnTriggerExit2D(Collider2D collider){
-        Debug.Log("TriggerExit");
+        //Debug.Log("TriggerExit");
     }    
 
 
     void OnCollisionEnter2D(Collision2D collision){
-        Debug.Log("CollisionEnter");
+        //Debug.Log("CollisionEnter");
     }     
     void OnCollisionExit2D(Collision2D collision){
-        Debug.Log("CollisionExit");
+        //Debug.Log("CollisionExit");
     }      
     void OnCollisionStay2D(Collision2D collision){
-        Debug.Log("CollisionStay");
+        //Debug.Log("CollisionStay");
     } 
 }
