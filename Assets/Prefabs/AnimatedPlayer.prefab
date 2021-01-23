@@ -264,4 +264,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spot: {fileID: 0}
+  white: {fileID: 1894826466839517825, guid: 22011219c4cfe7943b71ecc08eacdf92, type: 3}
+  black: {fileID: 2986967563547643396, guid: b27eaf1d5b4f95f419f165d5ca737e8f, type: 3}
   allSpots: []
