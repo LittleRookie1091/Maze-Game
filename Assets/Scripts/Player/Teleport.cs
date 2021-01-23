@@ -19,7 +19,7 @@ public class Teleport : MonoBehaviour
             if(spot != spoty)
             {
                 Vector3 position = spoty.transform.position;
-                position.y = position.y - 2;
+                position.y = position.y-2;
                 this.transform.position= position;
                 break;
             }
