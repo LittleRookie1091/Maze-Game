@@ -32,7 +32,7 @@ public class Teleport : MonoBehaviour
                 StartCoroutine(ExampleCoroutine(1, cover));
 
                 Vector3 position = spoty.transform.position;
-                position.y = position.y-1;
+                position.y = position.y-2;
                 this.transform.position= position;
                 break;
             }
